@@ -12,6 +12,8 @@
 
 <hr> </hr>
 
+![bot image](https://github.com/Felipefury/Auto-Redeem-Twitch-Bonus/blob/master/bot.png?raw=true)
+
 # Requirements
 
 **1 - Tampermoneky**
