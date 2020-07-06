@@ -27,4 +27,5 @@
 
 **2 - Bot**
 
-> link: https://github.com/Felipefury/Auto-Redeem-Twitch-Bonus/raw/master/index.user.js
+> Version 1 (this version contains a sound when collecting the bonus): https://github.com/Felipefury/Auto-Redeem-Twitch-Bonus/raw/master/src/with_sound/index.user.js
+> Version 2 (this version does not contain sound): https://github.com/Felipefury/Auto-Redeem-Twitch-Bonus/raw/master/src/no_sound/index.user.js
