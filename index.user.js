@@ -21,7 +21,6 @@ TwitchBonus = function() {
 		div.innerHTML = `<div class="chat-line__message" data-a-target="chat-line-message" data-test-selector="chat-line-message"><span class="chat-author__display-name" style="color: rgb(220, 0, 0);">[${new Date().toTimeString().slice(0, 8)}] Bonus collected.</span><span> (only you can see it)</span></div>`
 		chat.appendChild(div);
 	}
-	setTimeout(TwitchBonus, 1000);
 }
 
-TwitchBonus()
+setInterval(TwitchBonus, 1000);
