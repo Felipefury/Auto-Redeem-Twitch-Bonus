@@ -4,7 +4,7 @@
 // @match       https://www.twitch.tv/*
 // @author      Felipe GM
 // @description this code will do all the work of clicking on the twitch channel points chest
-// @updateURL   https://github.com/Felipefury/Auto-Redeem-Twitch-Bonus/raw/master/src/index.user.js
+// @updateURL   https://github.com/Felipefury/Auto-Redeem-Twitch-Bonus/raw/master/index.user.js
 // @run-at      document-start
    // ==/UserScript==
 
