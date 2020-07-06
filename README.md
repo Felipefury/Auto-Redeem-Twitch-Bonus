@@ -25,4 +25,4 @@
 
 **2 - Bot**
 
-> link: 
+> link: https://github.com/Felipefury/Auto-Redeem-Twitch-Bonus/raw/master/index.user.js
