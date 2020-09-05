@@ -13,8 +13,6 @@ TwitchBonus = function() {
     if (bonus) {
 		bonus.click();
 
-		console.log("Bonus successfully collected", new Date().toTimeString().slice(0, 8));
-
         var chat = document.querySelector(".chat-scrollable-area__message-container");
 
         var audio = new Audio('https://freesound.org/data/previews/263/263133_2064400-lq.mp3');
@@ -27,4 +25,6 @@ TwitchBonus = function() {
 	}
 }
 
-setInterval(TwitchBonus, 1000);
+setInterval(() => {
+    TwitchBonus()
+}, 1001);
